@@ -1,0 +1,34 @@
+{
+  "auc_farm_data_model": 0.7475125,
+  "land_title_rule": {
+    "approved_count": 193,
+    "approval_rate": 0.193,
+    "default_rate_approved": 0.18134715025906736,
+    "share_approved_without_title": 0.0
+  },
+  "model_at_same_approval_rate": {
+    "approved_count": 193,
+    "approval_rate": 0.193,
+    "default_rate_approved": 0.08290155440414508,
+    "share_approved_without_title": 0.7150259067357513
+  },
+  "model_at_target_default_rate": {
+    "approved_count": 571,
+    "approval_rate": 0.571,
+    "default_rate_approved": 0.08756567425569177,
+    "share_approved_without_title": 0.7040280210157618
+  },
+  "cutoff_same_approval_rate": 0.059357962252106745,
+  "cutoff_target_default_rate": 0.17396018535583987,
+  "target_default_rate": 0.1,
+  "risk_drivers": {
+    "yield_index": -0.612,
+    "herd_condition": -0.28,
+    "wallet_months": -0.097,
+    "has_livestock": -0.038,
+    "log_mobile_inflow": -0.028,
+    "herd_size": -0.001,
+    "sells_through_arthi": 0.2,
+    "yield_volatility": 0.393
+  }
+}

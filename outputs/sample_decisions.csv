@@ -1,0 +1,26 @@
+farmer_id,land_acres,has_land_title,crop,irrigation,seasonal_income_pkr,probability_of_default,score,decision,structure,limit_pkr
+F02743,2.4,False,wheat,diesel_tubewell,198000.0,0.137,533,approve,Ijarah: solar pump lease,69000
+F03518,3.9,False,mango,diesel_tubewell,288000.0,0.51,425,decline,,0
+F04004,17.4,True,rice,canal,1102000.0,0.104,551,approve,Murabaha: seed and fertilizer,386000
+F01500,1.9,False,sugarcane,diesel_tubewell,357000.0,0.059,587,approve,Ijarah: solar pump lease,125000
+F02212,7.7,True,sugarcane,canal,756000.0,0.169,519,approve,Murabaha: seed and fertilizer,265000
+F02903,7.9,True,wheat,diesel_tubewell,397000.0,0.214,502,decline,,0
+F00298,3.2,True,wheat,canal,162000.0,0.503,426,decline,,0
+F04765,8.9,False,rice,canal,656000.0,0.053,593,approve,Murabaha: seed and fertilizer,230000
+F03899,2.7,False,mango,canal,203000.0,0.161,522,approve,Murabaha: seed and fertilizer,71000
+F03792,11.1,True,mango,rainfed,1144000.0,0.08,568,approve,Ijarah: solar pump lease,400000
+F00103,3.2,True,sugarcane,diesel_tubewell,404000.0,0.125,539,approve,Ijarah: solar pump lease,141000
+F04937,4.8,False,mango,rainfed,648000.0,0.123,540,approve,Ijarah: solar pump lease,227000
+F00776,4.6,True,wheat,canal,193000.0,0.369,458,decline,,0
+F00658,4.6,False,sugarcane,diesel_tubewell,515000.0,0.168,519,approve,Ijarah: solar pump lease,180000
+F03119,2.4,False,wheat,canal,190000.0,0.034,621,approve,Murabaha: seed and fertilizer,66000
+F01058,5.3,False,banana,canal,463000.0,0.404,450,decline,,0
+F00993,13.0,False,cotton,rainfed,1106000.0,0.176,516,decline,,0
+F00626,2.9,False,cotton,diesel_tubewell,270000.0,0.06,586,approve,Ijarah: solar pump lease,94000
+F02788,3.9,False,wheat,solar_pump,314000.0,0.027,633,approve,Murabaha: seed and fertilizer,110000
+F04470,2.4,False,banana,canal,239000.0,0.42,446,decline,,0
+F00311,8.7,True,rice,diesel_tubewell,596000.0,0.114,545,approve,Ijarah: solar pump lease,209000
+F00785,4.1,False,wheat,canal,206000.0,0.447,440,decline,,0
+F01170,3.2,False,mango,canal,253000.0,0.646,392,decline,,0
+F02760,7.1,True,wheat,canal,448000.0,0.173,518,approve,Murabaha: seed and fertilizer,157000
+F02360,11.3,True,mango,canal,1087000.0,0.077,571,approve,Murabaha: seed and fertilizer,380000
